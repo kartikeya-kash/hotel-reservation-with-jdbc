@@ -1,2 +1,2 @@
-create database hotelreservation;
-use hotelreservation;
+create database hotel_db;
+use hotel_db;
